@@ -1,4 +1,4 @@
-# canon-printer-setup-guide
+# How to Setup Canon Printer via ij.start.canon | Easy Guide
 Setting up a Canon printer is a simple process when you follow the correct steps. The easiest and most reliable way to complete the setup is by using the official Canon setup website <a href="https://github.com/ijstartcanonset/canon-printer-setup-guide/">ij.start.canon</a>. This platform provides the necessary drivers, software, and instructions required to install and configure your Canon printer properly.
 
 To begin the setup process, first unpack your Canon printer and remove all protective materials from the device. Place the printer on a flat surface near your computer or Wi-Fi router. Next, connect the power cable to the printer and turn it on by pressing the power button. Make sure the printer is ready and the indicator lights are stable.
